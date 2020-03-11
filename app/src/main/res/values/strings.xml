@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrueOrFalse</string>
+    <string name="bString">B</string>
+    <string name="conjunction_and">Conjunction (AND)</string>
+    <string name="aString">A</string>
+</resources>
